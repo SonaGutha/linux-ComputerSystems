@@ -1,0 +1,11 @@
+google.com 14.192
+iit.edu 37.240
+amazon.com 34.931
+yahoo.com 37.634
+facebook.com 60.887
+instagram.com 49.221
+ubuntu.com 102.582
+uber.com 15.708
+lyft.com 12.832
+bing.com 14.339
+linkedin.com 12.503

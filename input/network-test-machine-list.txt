@@ -1,0 +1,11 @@
+google.com
+iit.edu
+amazon.com
+yahoo.com
+facebook.com
+instagram.com
+ubuntu.com
+uber.com
+lyft.com
+bing.com
+linkedin.com
